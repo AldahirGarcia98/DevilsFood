@@ -94,7 +94,7 @@
             
         </section>
         <div class="contenedor">
-                <h2 class="titulo">Reservaciones</h2>
+                <h2 class="titulo">Pedidos</h2>
                 <div class="formulario__grupo" id="grupo__nombre">
 					<label for="nombre" class="formulario__label">Nombre Completo</label>
 					<div class="formulario__grupo-input">
